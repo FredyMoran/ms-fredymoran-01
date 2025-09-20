@@ -9,7 +9,7 @@ on:
 
 env:
   REGISTRY: docker.io
-  IMAGE_NAME: fredyressieimf/demo-micro
+  IMAGE_NAME: fredyyessielmf/ms-fredymoran-01
   JAVA_VERSION: '21'
 
 jobs:
