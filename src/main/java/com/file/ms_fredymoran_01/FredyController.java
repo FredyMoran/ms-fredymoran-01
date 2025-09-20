@@ -8,6 +8,6 @@ public class FredyController {
 
     @GetMapping("/")
     public String getMsFredymoran() {
-        return "Hola Fredy Moran!";
+        return "Hola Esta es una prueba para Validar el Microservicio De Java";
     }
 }
